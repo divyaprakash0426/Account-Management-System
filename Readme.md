@@ -1,7 +1,8 @@
 # Account Management System
-The programis designedin such a way that it simulates anaccount management system which manages a stock portfolio account and a bank account.Theproject includes five header files and fivesource files. Headerfiles include Account_divyaprakash.h, BankAccount_divyaprakash.h, StockAccount_divyaprakash.h, StockNode_divyaprakash.h and CurrTime_divyaprakash.h. Source files include Account_divyaprakash.cpp, BankAccount_divyaprakash.cpp, StockAccount_divyaprakash.cpp, StockNode_divyaprakash.cpp, CurrTime_divyaprakash.cpp and Main_divyaprakash.cpp.
+The program is designed in such a way that it simulates an account management system which manages a stock portfolio account and a bank account.The project includes five header files and five source files. Header files include Account_divyaprakash.h, BankAccount_divyaprakash.h, StockAccount_divyaprakash.h, StockNode_divyaprakash.h and CurrTime_divyaprakash.h. Source files include Account_divyaprakash.cpp, BankAccount_divyaprakash.cpp, StockAccount_divyaprakash.cpp, StockNode_divyaprakash.cpp, CurrTime_divyaprakash.cpp and Main_divyaprakash.cpp.
 
-### Main_divyaprakash.cpp
+Compile the project and run main_divyaprakash.cpp. The numeric options represent the following functions.
+### main_divyaprakash.cpp
 First layer:
 1. Stock Portfolio Account
 2. Bank Account
@@ -23,11 +24,11 @@ Second layer of BankAccount:
 4. Print History
 5. Return to Previous Menu
 
-### Text Generated file:
-balfile.txt:To store bank account balance.
-bank_transaction_history.txt: To store bank account transaction history.
-portfolio.txt: To store portfolio data.
-portfolioValue.txt: To store portfolio value history.
-size.txt: To store the size of portfolio.
-stock_transaction_history.txt: To store stock account transaction history.
-Source file:Result_1.txt and Result_2.txt
+### Generated text file:
+1. balfile.txt:To store bank account balance.
+2. bank_transaction_history.txt: To store bank account transaction history.
+3. portfolio.txt: To store portfolio data.
+4. portfolioValue.txt: To store portfolio value history.
+5. size.txt: To store the size of portfolio.
+6. stock_transaction_history.txt: To store stock account transaction history.
+7. Source file:Result_1.txt and Result_2.txt
