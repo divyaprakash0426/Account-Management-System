@@ -3,11 +3,13 @@
 #include<fstream>
 #include<sstream>
 #include<utility>
-#include "Account_divyaprakash.h"
-#include "BankAccount_divyaprakash.h"
-#include "StockAccount_divyaprakash.h"
-#include "StockNode_divyaprakash.h"
-#include "CurrTime_divyaprakash.h"
+
+#include "headers/Account_divyaprakash.h"
+#include "headers/BankAccount_divyaprakash.h"
+#include "headers/StockAccount_divyaprakash.h"
+#include "headers/StockNode_divyaprakash.h"
+#include "headers/CurrTime_divyaprakash.h"
+
 using namespace std;
 
 int main()

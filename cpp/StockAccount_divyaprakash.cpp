@@ -5,8 +5,8 @@
 #if (_MSC_VER >= 1600)
 #define __STDC_UTF_16__
 #endif
-#include "mex.h"
-#include<engine.h>
+#include "headers/mex.h"
+#include"headers/engine.h"
 #include<cmath>
 #include<time.h>
 #include<iostream>
@@ -18,8 +18,8 @@
 #include<fstream>  
 #include<string>
 #include<stdlib.h>
-#include "StockAccount_divyaprakash.h"
-#include "StockNode_divyaprakash.h"
+#include "headers/StockAccount_divyaprakash.h"
+#include "headers/StockNode_divyaprakash.h"
 
 using namespace std;
 

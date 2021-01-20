@@ -13,9 +13,9 @@
 
 using namespace std;
 
-#include"CurrTime_divyaprakash.h"
-#include "Account_divyaprakash.h"
-#include "StockNode_divyaprakash.h"
+#include"headers/CurrTime_divyaprakash.h"
+#include "headers/Account_divyaprakash.h"
+#include "headers/StockNode_divyaprakash.h"
 
 void currtime::calculate() {
 
